@@ -15,4 +15,6 @@ public interface RedisConstant {
     int PORT02 = 6380;
 
     int PORT03 = 6381;
+
+    int EXPIRE_TIME = 24 * 60 * 60;
 }
