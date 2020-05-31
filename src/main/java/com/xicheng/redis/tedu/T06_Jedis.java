@@ -13,7 +13,7 @@ import java.util.Arrays;
  * @date 2020-05-17 17:13
  */
 @Slf4j
-public class Jedis06 {
+public class T06_Jedis {
 
     private static final String KEY_PREFIX = "redis06_key_%s";
 

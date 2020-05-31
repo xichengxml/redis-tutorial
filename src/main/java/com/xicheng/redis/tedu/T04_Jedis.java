@@ -16,7 +16,7 @@ import java.util.Set;
  * @date 2020-05-13 23:24
  */
 @Slf4j
-public class Jedis04 {
+public class T04_Jedis {
 
     private static final String KEY_PREFIX = "redis04_key_%s";
 

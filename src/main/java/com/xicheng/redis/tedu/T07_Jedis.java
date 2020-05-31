@@ -15,7 +15,7 @@ import redis.clients.jedis.ShardedJedisPool;
  */
 @RestController
 @RequestMapping("/redis")
-public class Jedis07 {
+public class T07_Jedis {
 
     private static final String KEY = "redis07_key_1";
 

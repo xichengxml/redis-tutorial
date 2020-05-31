@@ -11,7 +11,7 @@ import redis.clients.jedis.Jedis;
  * @date 2020-04-22 23:18
  */
 @Slf4j
-public class Jedis02 {
+public class T02_Jedis {
 
     private static final String KEY = "redis02_key";
 

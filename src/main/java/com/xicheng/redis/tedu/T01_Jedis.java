@@ -13,7 +13,7 @@ import java.util.Set;
  * @date 2020-04-22 23:03
  */
 @Slf4j
-public class Jedis01 {
+public class T01_Jedis {
 
     public static void main(String[] args) {
         Jedis jedis = new Jedis(RedisConstant.HOST, RedisConstant.PORT01);
