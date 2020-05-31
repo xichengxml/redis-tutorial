@@ -8,7 +8,7 @@ package com.xicheng.redis.tedu.common;
  */
 public interface SentinelConstant {
 
-    String HOST = "192.168.133.121";
+    String HOST = "192.168.133.122";
 
     int PORT01 = 26379;
 

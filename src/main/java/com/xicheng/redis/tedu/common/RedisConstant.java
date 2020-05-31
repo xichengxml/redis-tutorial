@@ -8,7 +8,7 @@ package com.xicheng.redis.tedu.common;
  */
 public interface RedisConstant {
 
-    String HOST = "192.168.133.122";
+    String HOST = "192.168.133.121";
 
     int PORT01 = 6379;
 
