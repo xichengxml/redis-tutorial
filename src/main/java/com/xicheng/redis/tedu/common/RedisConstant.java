@@ -17,4 +17,8 @@ public interface RedisConstant {
     int PORT03 = 6381;
 
     int EXPIRE_TIME = 24 * 60 * 60;
+
+    String CLUSTER_HOST = "192.168.133.123";
+
+    int CLUSTER_PORT01 = 8000;
 }
