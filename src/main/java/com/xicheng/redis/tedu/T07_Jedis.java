@@ -1,6 +1,6 @@
 package com.xicheng.redis.tedu;
 
-import com.xicheng.redis.tedu.common.RedisConstant;
+import com.xicheng.redis.common.RedisConstant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

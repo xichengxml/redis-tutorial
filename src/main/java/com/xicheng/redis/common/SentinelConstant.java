@@ -1,4 +1,4 @@
-package com.xicheng.redis.tedu.common;
+package com.xicheng.redis.common;
 
 /**
  * description

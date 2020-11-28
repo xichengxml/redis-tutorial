@@ -1,7 +1,7 @@
 package com.xicheng.redis.tedu;
 
-import com.xicheng.redis.tedu.common.RedisConstant;
-import com.xicheng.redis.tedu.common.SentinelConstant;
+import com.xicheng.redis.common.RedisConstant;
+import com.xicheng.redis.common.SentinelConstant;
 import lombok.extern.slf4j.Slf4j;
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;

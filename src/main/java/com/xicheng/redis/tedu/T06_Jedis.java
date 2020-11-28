@@ -1,6 +1,6 @@
 package com.xicheng.redis.tedu;
 
-import com.xicheng.redis.tedu.common.RedisConstant;
+import com.xicheng.redis.common.RedisConstant;
 import lombok.extern.slf4j.Slf4j;
 import redis.clients.jedis.*;
 

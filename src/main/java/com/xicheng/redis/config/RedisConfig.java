@@ -1,4 +1,4 @@
-package com.xicheng.redis.tedu.config;
+package com.xicheng.redis.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
